@@ -1,0 +1,260 @@
+body{
+    background-color:yellow;
+}
+.teja{
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px rgb(1, 1, 66);
+    width: 80px;
+    border:4px solid black;
+    transition: width 4s;
+}
+.vaishu:hover{
+    width: 120px;
+}
+.Nav-bar{
+    background-color:aqua;
+    border-radius: 40px;   
+}
+.Nav-bar li{
+    list-style-type: none;
+    float: left;
+    padding:20px;
+}
+.Nav-bar li a{
+    text-decoration: none;
+}
+.Nav-bar ul{
+    overflow: auto;
+}
+.Nav-bar li a:hover{
+color: black;
+}
+h1{
+    text-align: center;
+    border: 4px solid white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    color: rgb(31, 31, 61);
+    border-radius:40px;
+    background-color:white;
+    width:50%;
+    transition: width 2s;
+}
+h1:hover{
+    color: black;
+    width: 500px;
+}
+.te3{
+    margin: 10px;
+    border: 8px solid black;
+    transition: width 2s, height 2s, transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+    transition: transform 2s;
+}
+.te3:hover{
+    transform: scale(1.1);
+    width: 300px;
+  height: 350px;
+}
+.te4{
+    margin: 9px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te4:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te5{
+    margin: 9px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te5:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te6{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te6:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+table,tr,th{
+ word-spacing: 300px;
+ background-color: aqua;
+ padding: 10px;
+ border-radius: 10px;
+ color: black;
+}
+.te7{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te7:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te8{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te8:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te9{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te9:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te10{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te10:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.vaishu14{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te14:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te11{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te11:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+
+}
+.te12{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te12:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te13{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te13:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te14{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te14:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te15{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te15:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te16{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te16:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te17{
+    margin: 10px;
+    border: 8px solid black;
+    transition: transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+}
+.te17:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
+.te18{
+    margin: 10px;
+    border: 8px solid black;
+    transition:  transform 2s;
+    border-radius: 50px;
+    box-shadow: 20px 20px 20px rgb(12, 12, 77);
+    
+}
+.te18:hover{
+    width: 300px;
+  height: 350px;
+  transform: scale(1.1);
+}
